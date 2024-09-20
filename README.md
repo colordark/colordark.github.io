@@ -1,6 +1,6 @@
-# Hello!
+# [Sean Fang](https://colordark.github.io/)
 
-I'm currently a student at [Whitney High School](https://www.whitneyhs.us/) (WHS).
+Hello! I'm currently a student at [Whitney High School](https://www.whitneyhs.us/) (WHS).
 
 ## About Me
 
