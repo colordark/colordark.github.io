@@ -1,6 +1,6 @@
-# Sean Fang
+# Hello!
 
-Hello! I'm currently a student at [Whitney High School](https://www.whitneyhs.us/) (WHS).
+I'm currently a student at [Whitney High School](https://www.whitneyhs.us/) (WHS).
 
 ## About Me
 
