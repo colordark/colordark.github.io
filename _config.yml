@@ -47,3 +47,5 @@ minima:
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+
+# https://github.com/jekyll/minima/blob/824a12458d063e9727121aea25e934c8227a7554/_config.yml
