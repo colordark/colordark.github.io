@@ -2,7 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+// @font-face { font-family: "Fira Sans"; src: url("Fira Sans"); }
+@font-face {
+  font-family: "Fira Code"; src: url("FiraCode-VariableFont_wght.ttf");
+}
 
-body {
-  
+h1, h2, h3, h4 {
+  font-family: "Fira Code";
 }
