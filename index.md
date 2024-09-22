@@ -1,5 +1,6 @@
 ---
 title: Sean Fang
+layout: default
 ---
 
 Hello! I'm currently a student at [Whitney High School](https://www.whitneyhs.us/) (WHS).
