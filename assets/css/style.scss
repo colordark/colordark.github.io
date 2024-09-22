@@ -5,13 +5,17 @@
 
 @font-face {
   font-family: "Fira Sans";
-  src: url("FiraSans-Regular.ttf");
+  src: url("../fonts/FiraSans-Regular.ttf");
 }
 @font-face {
   font-family: "Fira Code";
-  src: url("FiraCode-VariableFont_wght.ttf");
+  src: url("../fonts/FiraCode-VariableFont_wght.ttf");
 }
 
 h1, h2, h3, h4 {
-  font-family: "Fira Code";
+  font-family: "Fira Sans";
+}
+
+p, li {
+  font-family: "Fira Sans";
 }
