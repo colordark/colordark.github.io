@@ -1,19 +1,5 @@
-# theme: minima
-# remote_theme: pages-themes/architect@v0.2.0
-remote_theme: jekyll/minima
-title: Sean Fang
 author:
   name: Sean Fang
   email: sean.fang.ca@gmail.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-remote-theme
-header_pages:
-  - about.md
-minima:
-  social_links:
-    - { platform: github, user_url: "https://github.com/colordark" }
-
-# https://github.com/jekyll/minima/blob/824a12458d063e9727121aea25e934c8227a7554/_config.yml
+  github: colordark
+# remote_theme: jekyll/minima
