@@ -31,9 +31,20 @@ nav {
 
 nav a {
     padding: 8px;
+    color: #fff;
     background-color: #2e7bcf;
 }
 
+nav a:hover {
+    color: #ccc;
+}
+
 footer {
-    background: #aaa;
+    color: #666;
+    background: #ccc;
+}
+
+footer img {
+    width: 32px;
+    height: 32px;
 }

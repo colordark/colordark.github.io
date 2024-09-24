@@ -26,9 +26,9 @@
             </a>
             <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         </div>
-    </header>
 
-    {% include nav.html %}
+        {% include nav.html %}
+    </header>
 
     <div id="content-wrapper">
         <div class="inner clearfix">
@@ -54,8 +54,9 @@
     <footer>
         <div class="inner">
             <p>
-                &copy; {{ site.time | date: "%Y" }} {{ site.author.name}}
                 <a href="https://github.com/{{ site.author.github }}"><img src="../assets/images/github-mark.png"></a>
+                <br>
+                &copy; {{ site.time | date: "%Y" }} {{ site.author.name}}
             </p>
         </div>
     </footer>
