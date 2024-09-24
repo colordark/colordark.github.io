@@ -5,4 +5,6 @@ author:
   email: sean.fang.ca@gmail.com
   github: colordark
 collections:
-  - pages
+  pages:
+    output: true
+    permalink: /:name/
