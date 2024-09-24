@@ -1,7 +1,7 @@
 ---
-title: About
-permalink: /about/
-layout: page
+title: Projects
+permalink: /projects/
+layout: default
 ---
 
 Projects page
