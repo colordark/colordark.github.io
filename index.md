@@ -1,6 +1,5 @@
 ---
 title: Sean Fang
-layout: home
 ---
 
 # Hello!
