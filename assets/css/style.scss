@@ -25,7 +25,15 @@ header, header a, #main-content h1, #main-content h2, #main-content h3, #main-co
     font-weight: bold;
 }
 
+nav {
+    background-color: #2e7bcf;
+}
+
 nav a {
     padding: 8px;
-    background-color: #000080;
+    background-color: #2e7bcf;
+}
+
+footer {
+    background: #aaa;
 }
