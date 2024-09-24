@@ -1,4 +1,22 @@
 ---
 ---
 
-@import "custom";
+@import "{{ site.theme }}";
+
+@font-face {
+    font-family: "Fira Sans";
+    src: url("../fonts/FiraSans-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Fira Code";
+    src: url("../fonts/FiraCode-VariableFont_wght.ttf");
+}
+
+body {
+    font-family: "Fira Sans", sans-serif;
+}
+
+#main-content h1, #main-content h2, #main-content h3, #main-content h4, #main-content h5, #main-content h6 {
+  font-family: "Fira Code", sans-serif;
+}
