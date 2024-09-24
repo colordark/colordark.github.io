@@ -1,6 +1,6 @@
 ---
 title: Sean Fang
-layout: default
+layout: home
 ---
 
 # Hello!
