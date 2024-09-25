@@ -4,4 +4,6 @@
   Sean Fang
 </h1>
 
-Check out my [personal website](https://colordark.github.io/)!
+<p align="center">
+  Check out my [personal website](https://colordark.github.io/)!
+</p>
