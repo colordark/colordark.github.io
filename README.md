@@ -5,5 +5,5 @@
 </h1>
 
 <p align="center">
-  Check out my [personal website](https://colordark.github.io/)!
+  Check out my <a href="https://colordark.github.io/">personal website</a>!
 </p>
