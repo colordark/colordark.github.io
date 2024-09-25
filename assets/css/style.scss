@@ -15,11 +15,17 @@
 
 body {
     font-family: "Fira Sans", sans-serif;
-    display: grid;
+    display: flex;
+    flex-flow: column;
+    height: 100vh;
 }
 
 header, header a, #main-content h1, #main-content h2, #main-content h3, #main-content h4, #main-content h5, #main-content h6 {
   font-family: "Fira Code", sans-serif;
+}
+
+main {
+    flex: 1;
 }
 
 #main-content h1 {
