@@ -26,7 +26,7 @@ I began my CS when I was 6 or 7. Since then, I have developed a passion for CS. 
 - Arduino
     - Basic projects
 
-## Projects
+## Projects (WIP)
 
 Here are some projects that I have worked on: (more will be added as I create repos and project pages)
 
