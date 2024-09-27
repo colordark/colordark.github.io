@@ -9,8 +9,6 @@ layout: default
 I began my CS when I was 6 or 7. Since then, I have developed a passion for CS. Here is some of the knowledge I have gained over the years:
 
 ## Experience
-
-Here is some of my experience:
 - C++
     - [USA Computing Olympiad](https://usaco.org/) (USACO)
 - C#
@@ -28,9 +26,16 @@ Here is some of my experience:
 - Arduino
     - Basic projects
 
+## Projects
+
+Here are some projects that I have worked on: (more will be added as I create repos and project pages)
+
+- [Mega](https://colordark.github.io/mega/) ([Repo](https://github.com/colordark/mega/))
+    - [Discord](https://discord.com/) bot made using [discord.py](https://discordpy.readthedocs.io/en/latest/)
+
 ## Software
 
-In case you were wondering, here are some software that I use: (and no, I do not use Linux)
+In case you were wondering, here are some software that I use: (and no, I do not use Arch Linux)
 - [Android Studio](https://developer.android.com/studio)
 - [Visual Studio](https://visualstudio.microsoft.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
