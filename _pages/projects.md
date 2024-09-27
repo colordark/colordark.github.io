@@ -4,4 +4,8 @@ permalink: /projects/
 layout: default
 ---
 
-Projects page
+# Projects
+
+## [Mega](https://colordark.github.io/mega/) ([Repo](https://github.com/colordark/mega/))
+
+- [Discord](https://discord.com/) bot made using [discord.py](https://discordpy.readthedocs.io/en/latest/)
