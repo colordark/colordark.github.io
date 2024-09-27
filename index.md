@@ -3,7 +3,7 @@ title: Sean Fang
 ---
 
 <div align="center">
-    <img src="assets/images/favicon.png" width="100" />
+    <img src="assets/images/favicon.png" width="256" />
 </div>
 
 # Hello!
