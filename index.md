@@ -2,10 +2,13 @@
 title: Sean Fang
 ---
 
-<h1 align="center">
+<div align="center">
     <img src="assets/images/favicon.png" width="100" />
-    Sean Fang
-</h1>
+
+    <br>
+
+    <h1>Sean Fang</h1>
+</div>
 
 ## Hello!
 
